@@ -1,0 +1,6 @@
+framework module Pods_Patrick_VideosUITests {
+  umbrella header "Pods-Patrick_VideosUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
